@@ -1,3 +1,3 @@
 # HTML CSS Design
-Visite WebSite :
+Visit :
 (https://mohamekni.github.io/TemplateOne/)
